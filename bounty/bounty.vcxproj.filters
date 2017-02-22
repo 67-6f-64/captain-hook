@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Launch">
+      <UniqueIdentifier>{293b8ed0-6a9b-40bd-b579-2cbe455b72f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Crypto">
+      <UniqueIdentifier>{1c1ed8a5-3549-462a-a3ca-9f5f48e5022b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

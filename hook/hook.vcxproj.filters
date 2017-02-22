@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Launch">
+      <UniqueIdentifier>{3a671090-d085-4f1f-a9a8-2e02776c2864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hook">
+      <UniqueIdentifier>{5138b7f4-74dd-4654-befc-13e95c2f6455}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
